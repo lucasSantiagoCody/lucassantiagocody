@@ -5,7 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lucas-santiago-30423628b/)
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassantiagocody&show_icons=true&theme=dracula)
+![lucassantiagocody's Stats](https://github-readme-stats.vercel.app/api?username=lucassantiagocody&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![lucassantiagocody's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagocody&theme=dracula&hide_border=true)
+![lucassantiagocody's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiagocody&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### Technologies that I use in my daily life
 
