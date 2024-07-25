@@ -9,6 +9,7 @@ Frontend: Development of modern and responsive interfaces with Flutter.
 Backend: Creating scalable, high-performance applications using Django, Django Channels and Django Celery.
 <br>
 APIs: Development of RESTful APIs with Django Rest Framework and Django Ninja.
+<br>
 DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman.
 <br>
 
