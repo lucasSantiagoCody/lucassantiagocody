@@ -4,16 +4,22 @@ I'm a BACKEND developer passionate about creating robust and efficient solutions
 
 💻 My skills include:
 
+
 Backend: Creating scalable, high-performance applications using Django, Django Channels and Django Celery.
+<br>
 <br>
 APIs: Development of RESTful APIs with Django Rest Framework and Django Ninja.
 <br>
+<br>
 DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman.
+<br>
 <br>
 Frontend: Development of modern and responsive interfaces with Flutter.
 <br>
 
 #### I always try to update myself with the best practices and new technologies to deliver the best possible result. I am always open to new opportunities and challenges.
+<br>
+<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100087591428705)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
