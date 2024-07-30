@@ -1,16 +1,16 @@
 ## Hi there i'm Lucas santiago 👋
 
-I'm a Fullstack developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Python and Flutter.
+I'm a BACKEND developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Python and Flutter.
 
 💻 My skills include:
 
-Frontend: Development of modern and responsive interfaces with Flutter.
-<br>
 Backend: Creating scalable, high-performance applications using Django, Django Channels and Django Celery.
 <br>
 APIs: Development of RESTful APIs with Django Rest Framework and Django Ninja.
 <br>
 DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman.
+<br>
+Frontend: Development of modern and responsive interfaces with Flutter.
 <br>
 
 #### I always try to update myself with the best practices and new technologies to deliver the best possible result. I am always open to new opportunities and challenges.
