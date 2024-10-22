@@ -1,4 +1,4 @@
-## Hi there i'm Lucas santiago 👋
+## Hi there i'm Lucas Santiago 👋
 
 I'm a BACKEND developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Python and Flutter.
 
