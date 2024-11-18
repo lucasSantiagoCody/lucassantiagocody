@@ -35,6 +35,8 @@ DevOps: Containerization of applications with Docker and automation of tests and
 <div style="display:inline_block"><br/><br/>
 	<img src="https://github.com/user-attachments/assets/149e1501-9812-49ba-a631-9be0df5d02ba">
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=whitek">
+	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=whitek">
+	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <br>
   <br>
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
